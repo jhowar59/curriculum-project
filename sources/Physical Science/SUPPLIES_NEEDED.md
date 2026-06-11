@@ -8,8 +8,8 @@ Running list of items flagged during the Chapter audit. Nothing here is urgent u
 
 | Item | Lab | Status | Notes |
 |------|-----|--------|-------|
-| Metal sample test-piece set (solid Al, Fe, Ni, Sn, Zn pieces) | Physical Properties of Metals lab | **confirm** | Zinc metal and Fe/Mg powders are in chemicals, but solid test-piece sets for hands-on density/hardness/conductivity testing not confirmed; check storage cabinets |
-| Hot plate | Physical Properties of Metals lab (conductivity test step) | **confirm** | Common item — likely in storage, just wasn't photographed |
+| Metal sample test-piece set (solid Al, Fe, Ni, Sn, Zn pieces) | Physical Properties of Metals lab | **check storage** | Teacher believes they're on hand — check cabinets; zinc metal and Fe powder are in chemicals but those aren't the right form for density/hardness tests |
+| Hot plate | Physical Properties of Metals lab (conductivity test step) | ✅ confirmed | In INVENTORY §2 ("photo missed") |
 
 ---
 
@@ -18,7 +18,7 @@ Running list of items flagged during the Chapter audit. Nothing here is urgent u
 | Item | Lab | Status | Notes |
 |------|-----|--------|-------|
 | Rock salt | Boiling/Freezing publisher lab (freezing half) | **confirm** | Only needed for the full 2-period version (coffee-can ice bath); custom 1-period boiling lab doesn't need it |
-| Hot plate | Boiling/Freezing lab | **confirm** | Same as Ch2 — check storage |
+| Hot plate | Boiling/Freezing lab | ✅ confirmed | In INVENTORY §2 |
 
 ---
 
