@@ -1,0 +1,18 @@
+# Allowlist approach: track only text audit artifacts, ignore everything else.
+# The binary curriculum source (decks, worksheets, tests, images, archives)
+# lives canonically in Google Drive — these are working copies, kept out of
+# git to avoid bloat and useless binary diffs. Ignoring everything by default
+# means no new binary format can leak in; we opt in text types explicitly.
+
+# Ignore everything...
+*
+
+# ...but keep directory traversal, and opt in the text we want.
+!*/
+!.gitignore
+!*.md
+!*.csv
+!*.txt
+
+# Note: progress.log (.log) stays ignored on purpose — it's rewritten fresh
+# each session per CLAUDE.md convention, so it would only add churn.
