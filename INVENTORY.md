@@ -106,7 +106,9 @@
 
 **Identified — salts & inorganics (Chem):** ammonium dichromate, ammonium sulfate, ammonium chloride/bromide/acetate; calcium chloride / hydroxide; barium hydroxide; cupric chloride / sulfate; ferric chloride / nitrate / ammonium sulfate, ferrous sulfate; nickel chloride; cobalt chloride; zinc chloride / oxide / metal; potassium acetate / bicarbonate / carbonate / chlorate / chloride / bromide / iodide / nitrate / permanganate / persulfate / thiocyanate / citrate / bitartrate; sodium acetate / bisulfate / chlorate / citrate / hydroxide / nitrate / oxalate / sulfate / sulfide / sulfite / thiosulfate / meta-bisulfite / polyacrylate; strontium chloride; stannic chloride; silver nitrate; cadmium nitrate; aluminum sulfide; magnesium metal/ribbon; lithium sticks; iron & graphite powder; calcium turnings; soda lime; borax; alum; Epsom salt.
 
-**Identified — acids & organics (Chem):** benzoic acid, oxalic acid, citric acid, acetamide, naphthalene, methyl/amyl/butyl alcohol, isopropyl alcohol (91%), ethanol (95% denatured, 4 L), propanol, methyl cellulose, mineral/cottonseed oil, paraffin wax, mothballs (naphthalene), phenol, phenolphthalein, aniline hydrochloride, menthol.
+
+**Locked corrosives cabinet (Scimatco blue) — strong acids (Chem):** hydrochloric acid (HCl), sulfuric acid (H₂SO₄), acetic acid (concentrated), nitric acid (HNO₃), and others. *Not photo-inventoried (cabinet was locked); contents confirmed by teacher. Use fume hood; appropriate PPE required.*
+**Identified — acids & organics, open shelving (Chem):** benzoic acid, oxalic acid, citric acid, acetamide, naphthalene, methyl/amyl/butyl alcohol, isopropyl alcohol (91%), ethanol (95% denatured, 4 L), propanol, methyl cellulose, mineral/cottonseed oil, paraffin wax, mothballs (naphthalene), phenol, phenolphthalein, aniline hydrochloride, menthol.
 
 **Identified — biological reagents (Bio):** egg albumin, gelatin (Knox), agar/Bacto broth base, glucose & glucose standard solution, lactose, starch (soluble + solution), iodine, leaf chlorophyll, Carolina Biuret reagent, Carolina lipase, vitamin C (ascorbic acid).
 
