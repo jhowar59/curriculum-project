@@ -38,4 +38,14 @@ Running list of items flagged during the Chapter audit. Nothing here is urgent u
 
 ---
 
-*Updated as new chapters are audited. Last updated: 2026-06-11 (Ch1–Ch5 complete).*
+---
+
+## Ch9 — Acids, Bases, and pH
+
+| Item | Lab | Status | Notes |
+|------|-----|--------|-------|
+| pH paper (wide-range, 0–14) | Household pH survey lab | **confirm or order** | Not listed in INVENTORY; needed to test vinegar, baking soda solution, soap, lemon juice, etc.; wide-range pH paper is inexpensive and available in bulk; pH meter would work too if one is already on hand |
+
+---
+
+*Updated as new chapters are audited. Last updated: 2026-06-11 (Ch1–Ch9 complete — PS audit finished).*
