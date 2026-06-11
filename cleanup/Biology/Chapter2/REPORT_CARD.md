@@ -2,27 +2,30 @@
 **Audit date:** 2026-06-11
 **Standards:** ND 2019 Science Content Standards
 **Scope:** Canonical slide deck, IWS PDFs, CFU worksheets — publisher test banks (hssb*), Kahoot files, and ExamView tests excluded
+**Lab/activity column** cross-references the room's [INVENTORY.md](../../../INVENTORY.md) (§ = inventory section) to flag where a hands-on component exists or could plug in, and whether the equipment is on hand.
 
 ---
 
-| File | Type | PE touched | Dimension coverage | Recommended move | Flag |
-|------|------|------------|-------------------|-----------------|------|
-| Chapter 2 notes.pptx | Slides (35 slides, all 5 sections — broken into daily use) | section 2.3 → **HS-LS1-6** (carbon → large carbon-based molecules); 2.1 foundational chem; 2.2 foundational substrate for HS-LS1-3 (water → homeostasis); 2.4 foundational substrate for HS-LS1-5/1-7 (energy in reactions); 2.5 foundational, ties to HS-LS1-3 (enzymes & homeostasis); CC: Energy & Matter (2.3–2.4), Structure & Function (2.5) | content only throughout | CER — the 2.3 portion (carbohydrates / lipids / proteins / nucleic acids) is the bolt-on target: HS-LS1-6 asks students to *construct and revise an explanation*; the slides present the four macromolecules as definitions | Canonical deck — per-section breakout decks exist as working copies (see Cleanup flags below) |
-| IWS 2.1.pdf | IWS (publisher source) | foundational chem — atoms, ions, molecules | content only | leave be | Publisher source material (HMH) |
-| IWS 2.2.pdf | IWS (publisher source) | foundational substrate for HS-LS1-3 (water's properties → homeostasis); CC: Structure & Function | content only | leave be | Publisher source material — Properties of Water is settled leave-be per project decisions |
-| IWS 2.3.pdf | IWS (publisher source) | foundational source for **HS-LS1-6** (carbon-based molecules) | content only | leave be | Publisher source material; the macromolecule content here is what the 2.3 CER bolt-on would draw evidence from |
-| IWS 2.4.pdf | IWS (publisher source) | foundational substrate for HS-LS1-5/1-7 (chemical reactions, energy) | content only | leave be | Publisher source material |
-| IWS 2.5.pdf | IWS (publisher source) | foundational substrate — enzymes; ties to HS-LS1-3 | content only | leave be | Publisher source material |
-| 2CFU 2.1.docx | CFU | foundational chem vocab — atoms, ions, compounds | content only (Q1–2 use "explain," but answers are definitional recall) | leave be | Keep this version (has point values); see Cleanup flags for the duplicate |
-| 2CFU 2.2.docx | CFU | foundational substrate — water, polarity, pH; HS-LS1-3 | content only | leave be | None |
-| Biology CFU 2.3 - A.docx | CFU | **HS-LS1-6** — carbohydrates, polymer structure | content only (fill-in-blank recall) | CER candidate — this is where the chapter's PE lives; "what are the three structures" → "explain how carbon's bonding lets it build these large molecules" | Higher-value revision target |
-| Biology CFU 2.3 - B.docx | CFU | **HS-LS1-6** — lipids, proteins, nucleic acids | content only (fill-in-blank recall) | CER candidate — same as 2.3-A; the four-macromolecule content is the HS-LS1-6 substrate | Pairs with 2.3-A |
-| Biology CFU 2.4.docx | CFU | foundational substrate — chemical reactions, activation/bond energy | content only | leave be | See Cleanup flags for the exact duplicate |
-| Biology CFU 2.5.docx | CFU | foundational substrate — enzymes, catalysts, active site | content only | leave be | None |
+| File | Type | PE touched | Dimension coverage | Recommended move | Flag | Lab/activity (equipment on hand) |
+|------|------|------------|-------------------|-----------------|------|----------------------------------|
+| Chapter 2 notes.pptx | Slides (35 slides, all 5 sections — broken into daily use) | section 2.3 → **HS-LS1-6** (carbon → large carbon-based molecules); 2.1 foundational chem; 2.2 foundational substrate for HS-LS1-3 (water → homeostasis); 2.4 foundational substrate for HS-LS1-5/1-7 (energy in reactions); 2.5 foundational, ties to HS-LS1-3 (enzymes & homeostasis); CC: Energy & Matter (2.3–2.4), Structure & Function (2.5) | content only throughout | CER — the 2.3 portion (carbohydrates / lipids / proteins / nucleic acids) is the bolt-on target: HS-LS1-6 asks students to *construct and revise an explanation*; the slides present the four macromolecules as definitions | Canonical deck — per-section breakout decks exist as working copies (see Cleanup flags below) | **Two lab hooks.** 2.3 macromolecules → **food-testing lab**: Biuret (protein) and iodine (starch) tests fully equipped — Carolina Biuret reagent, iodine, soluble starch, glucose in stock (§5); Benedict's (sugars) reagent not confirmed — check §5/§14. 2.5 enzymes → **enzyme-activity lab**: Carolina lipase in stock (§5). Glassware: test tubes, racks, droppers (§3–4) on hand |
+| IWS 2.1.pdf | IWS (publisher source) | foundational chem — atoms, ions, molecules | content only | leave be | Publisher source material (HMH) | None — publisher reading |
+| IWS 2.2.pdf | IWS (publisher source) | foundational substrate for HS-LS1-3 (water's properties → homeostasis); CC: Structure & Function | content only | leave be | Publisher source material — Properties of Water is settled leave-be per project decisions | None built-in; properties-of-water demos (surface tension, capillary action) need only basic glassware (§3) |
+| IWS 2.3.pdf | IWS (publisher source) | foundational source for **HS-LS1-6** (carbon-based molecules) | content only | leave be | Publisher source material; the macromolecule content here is what the 2.3 CER bolt-on would draw evidence from | Reading; substrate for the 2.3 macromolecule food-testing lab above (reagents on hand, §5) |
+| IWS 2.4.pdf | IWS (publisher source) | foundational substrate for HS-LS1-5/1-7 (chemical reactions, energy) | content only | leave be | Publisher source material | None built-in; chemical-reactions content could use the Carolina Iodine Clock kit (§7) as a rate-of-reaction demo |
+| IWS 2.5.pdf | IWS (publisher source) | foundational substrate — enzymes; ties to HS-LS1-3 | content only | leave be | Publisher source material | Reading; substrate for the 2.5 enzyme-activity lab above (lipase §5) |
+| 2CFU 2.1.docx | CFU | foundational chem vocab — atoms, ions, compounds | content only (Q1–2 use "explain," but answers are definitional recall) | leave be | Keep this version (has point values); see Cleanup flags for the duplicate | None — formative check |
+| 2CFU 2.2.docx | CFU | foundational substrate — water, polarity, pH; HS-LS1-3 | content only | leave be | None | None built-in; pH content could pair with a quick pH-of-household-substances station — pH strips/meters in stock (§2) |
+| Biology CFU 2.3 - A.docx | CFU | **HS-LS1-6** — carbohydrates, polymer structure | content only (fill-in-blank recall) | CER candidate — this is where the chapter's PE lives; "what are the three structures" → "explain how carbon's bonding lets it build these large molecules" | Higher-value revision target | None built-in; pairs with the 2.3 macromolecule food-testing lab (reagents §5) |
+| Biology CFU 2.3 - B.docx | CFU | **HS-LS1-6** — lipids, proteins, nucleic acids | content only (fill-in-blank recall) | CER candidate — same as 2.3-A; the four-macromolecule content is the HS-LS1-6 substrate | Pairs with 2.3-A | None built-in; pairs with the 2.3 food-testing lab — Biuret test directly checks the proteins covered here (§5) |
+| Biology CFU 2.4.docx | CFU | foundational substrate — chemical reactions, activation/bond energy | content only | leave be | See Cleanup flags for the exact duplicate | None — formative check |
+| Biology CFU 2.5.docx | CFU | foundational substrate — enzymes, catalysts, active site | content only | leave be | None | None built-in; pairs with the 2.5 enzyme-activity lab (Carolina lipase, §5) |
 
 ---
 
 **Chapter verdict:** 9 of 11 in-scope files leave-be — Chapter 2 is largely foundational chemistry substrate (atoms, water, reactions, enzymes), which is doing its job as groundwork for the HS-LS1 process standards. The single real PE hit is **section 2.3, carbon-based molecules → HS-LS1-6**, and that's the chapter's CER candidate: the main deck's 2.3 slides plus CFU 2.3-A and 2.3-B.
+
+**Lab/activity note:** Chapter 2 has no built-in labs, but the room is equipped for the two that map cleanly onto its content. The **macromolecule food-testing lab** (Biuret + iodine) is the strongest move — it's hands-on evidence for the exact HS-LS1-6 content the 2.3 CFUs cover, and the reagents are on the shelf (INVENTORY §5). The one gap to verify before planning it is **Benedict's reagent** for reducing sugars, which isn't confirmed in the inventory (§5/§14). An **enzyme-activity lab** (lipase, §5) is the natural second option for section 2.5.
 
 ---
 
