@@ -8,7 +8,7 @@ Running list of items flagged during the Chapter audit. Nothing here is urgent u
 
 | Item | Lab | Status | Notes |
 |------|-----|--------|-------|
-| Metal sample test-piece set (solid Al, Fe, Ni, Sn, Zn pieces) | Physical Properties of Metals lab | **check storage** | Teacher believes they're on hand — check cabinets; zinc metal and Fe powder are in chemicals but those aren't the right form for density/hardness tests |
+| Metal samples — solid pieces of Al, Fe, Cu, Zn (+ Ni/Sn if available) | Physical Properties of Metals lab | **check storage** | Teacher has various metals on hand in unknown forms. **Powders won't work** (can't test conductivity, hardness, or density cleanly). Sheets and solid chunks are fine. Note: INVENTORY shows iron as *powder* — likely need a steel nail or rod as the iron sample. Al, Cu, Zn solid pieces probably on hand; check. A 3-metal set (Al + Fe/steel + Cu) fully demonstrates the concept if some are missing. |
 | Hot plate | Physical Properties of Metals lab (conductivity test step) | ✅ confirmed | In INVENTORY §2 ("photo missed") |
 
 ---
