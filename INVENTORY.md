@@ -53,6 +53,8 @@
 | Oscilloscope — Elenco S-3000A | 1 | Phys |
 | Multimeters (digital) — see §6 | ~5 | Phys |
 | Stopwatch / timer | 1+ | Gen |
+| Hot plates (electric) | present (photo missed) | Chem · Gen |
+| Portable Bunsen burners + ring stands (wire gauze in §4) | present | Chem · Gen |
 
 ## 3. Glassware & Labware
 
